@@ -272,7 +272,7 @@ const rawProperties = [
 const rawAgents = [
   {
     id: "a1",
-    name: "María Fernández",
+    name: "Jaime Monroy",
     role_es: "Directora General",
     role_en: "General Director",
     specialty_es: "Propiedades de Ultra Lujo",
@@ -285,7 +285,7 @@ const rawAgents = [
   },
   {
     id: "a2",
-    name: "Carlos Torres",
+    name: "Gonzalo Centeno",
     role_es: "Asesor Senior",
     role_en: "Senior Advisor",
     specialty_es: "Mercado Limeño",
@@ -298,7 +298,7 @@ const rawAgents = [
   },
   {
     id: "a3",
-    name: "Ana Quispe",
+    name: "Rodrigo Nuñez",
     role_es: "Especialista Miraflores",
     role_en: "Miraflores Specialist",
     specialty_es: "Residencial Miraflores y Barranco",
@@ -311,7 +311,7 @@ const rawAgents = [
   },
   {
     id: "a4",
-    name: "Diego Villanueva",
+    name: "Jesús Cordova",
     role_es: "Asesor Internacional",
     role_en: "International Advisor",
     specialty_es: "Inversión y Clientes Extranjeros",
